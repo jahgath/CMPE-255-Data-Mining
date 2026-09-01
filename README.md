@@ -1,6 +1,6 @@
 # CMPE-255: Data Mining
 
-Welcome to my **CMPE-255 Data Mining** repository.
+Welcome to Jagath Jijo's **CMPE-255 Data Mining** repository.
 
 Here you can find resources and coursework related to this course. All files, code, documentation, and other artefacts related to individual assignments are stored in their respective GitHub repositories.
 
