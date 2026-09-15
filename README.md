@@ -13,11 +13,15 @@ This repository serves as a **central index** for all assignments and provides l
 🔗 [View Assignment 1 Repository](https://github.com/jahgath/College-Meal-Plan-Data-Mining)
 
 
-### Assignment 2 — Data science experiments
+### Assignment  — Data science experiments
 
 🔗 [Clustering - Customer Segmentation](https://github.com/jahgath/customer-classification)
+
 🔗 [Regression - NYC taxi trip prediction](https://github.com/jahgath/nyc-taxi-trip-prediction)
+
 🔗 [Classification - Auto ML - Autogluon](https://github.com/jahgath/automl-autogluon)
+
+🔗 [Anomaly Detection](https://github.com/jahgath/anomaly-detection)
 
 ---
 
