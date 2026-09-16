@@ -23,6 +23,8 @@ This repository serves as a **central index** for all assignments and provides l
 
 🔗 [Anomaly Detection](https://github.com/jahgath/anomaly-detection)
 
+🔗 [Generative modeling - NanoLlama](https://github.com/jahgath/nanollama-chatbot)
+
 ---
 
 *More assignments will be added here as the course progresses.*
