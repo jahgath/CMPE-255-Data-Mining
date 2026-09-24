@@ -25,6 +25,11 @@ This repository serves as a **central index** for all assignments and provides l
 
 🔗 [Generative modeling - NanoLlama](https://github.com/jahgath/nanollama-chatbot)
 
+
+### Assignment  — Colab Playground
+🔗 [Colab Playground and videos](https://github.com/jahgath/colab-playground)
+
+
 ---
 
 *More assignments will be added here as the course progresses.*
